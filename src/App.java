@@ -81,7 +81,7 @@ public class App {
         System.out.println(nota2 +" nota(s) de R$ 2.00");
 
         System.out.println("MOEDAS:");
-        System.out.println(nota1 +" nota(s) de R$ 1.00");
+        System.out.println(nota1 +" moeda(s) de R$ 1.00");
         System.out.println(moeda50 +" moeda(s) de R$ 0.50");
         System.out.println(moeda25 +" moeda(s) de R$ 0.25");
         System.out.println(moeda10 +" moeda(s) de R$ 0.10");
